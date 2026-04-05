@@ -1,30 +1,24 @@
-# 📊 Analisador de Vendas em Python
+#  Sistema Financeiro em Python
 
-Projeto simples de análise e tratamento de dados utilizando Python.  
-O sistema lê um arquivo CSV com vendas, processa as informações e gera um relatório resumido com o total por produto e o valor geral das vendas.
+Projeto simples de controle financeiro feito em Python no terminal.
 
----
+##  Funcionalidades
 
-## 🚀 Funcionalidades
-
-- Leitura de arquivo CSV
-- Conversão e tratamento de dados
-- Cálculo de total por produto
-- Cálculo do total geral de vendas
-- Geração de relatório em CSV
-
----
+- Adicionar transações (entrada e saída)
+- Listar transações
+- Calcular saldo total
+- Ver resumo financeiro
+- Remover transações
 
 ##  Tecnologias
 
-- Python 3.13.12
-- Módulo CSV (biblioteca padrão)
+- Python 3.13
 
-## 📌 Objetivo
+##  Objetivo
 
-Projeto criado para praticar, uma simples analise de dados
+Projeto criado para praticar lógica de programação, listas, dicionários e funções em Python.
 
-##  Como executar
+## ▶ Como executar
 
 ```bash
 python main.py
